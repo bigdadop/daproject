@@ -1,0 +1,11 @@
+user_id,product_id,product_name,category,price,rating,purchase_date,review
+1001,P001,Premium Wireless Headphones,Electronics,129.99,4.5,2025-01-01,Great sound quality and comfortable fit
+1002,P002,Organic Green Tea (100 bags),Food & Beverages,15.99,4.0,2025-01-01,Good quality tea at reasonable price
+1003,P003,Yoga Mat Premium,Sports & Fitness,45.99,5.0,2025-01-01,Perfect thickness and grip
+1004,P004,Smart Watch Pro,Electronics,199.99,4.8,2025-01-01,Amazing features and battery life
+1005,P005,Cotton T-Shirt Pack,Clothing,29.99,4.2,2025-01-02,Good quality basic tees
+1006,P006,Protein Powder (2kg),Health & Nutrition,49.99,4.6,2025-01-02,Mixes well and tastes great
+1007,P007,Gaming Mouse,Electronics,79.99,4.7,2025-01-02,Perfect for gaming sessions
+1008,P008,Running Shoes,Sports & Fitness,89.99,4.4,2025-01-02,Comfortable for long runs
+1009,P009,Laptop Backpack,Accessories,59.99,4.3,2025-01-03,Spacious and water resistant
+1010,P010,Coffee Maker,Home & Kitchen,149.99,4.9,2025-01-03,Makes perfect coffee every time
